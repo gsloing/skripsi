@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE lppm_unklab;
+SHOW TABLES;
